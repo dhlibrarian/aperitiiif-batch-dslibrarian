@@ -2,7 +2,7 @@
 
 label:          'DS Librarian Demo'
 description:    'Demo collection of DS Librarian using aperitiiif service'
-attribution:    'Provided by DS Librarian via Wikimedia Commons'
+attribution:    'Provided by Abolition Now Project'
 
 presentation_api_url: 'https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com'
 image_api_url:        'https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2'
