@@ -4,8 +4,8 @@ label:          'DS Librarian Demo'
 description:    'Demo collection of DS Librarian using aperitiiif service'
 attribution:    'Provided by Abolition Now Project'
 
-presentation_api_url: 'https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com'
-image_api_url:        'https://d32urdpn13h59b.cloudfront.net/iiif/2'
+presentation_api_url: 'https://aperitiiif-presentation-api-store-ds-librarian.s3.us-east-1.amazonaws.com'
+image_api_url:        'https://d1gs3miwig5mj9.cloudfront.net/iiif/2'
 
 records:
   file: 'src/records.csv'
