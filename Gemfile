@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
 ruby '3.1.2'
-gem 'aperitiiif', github: 'middlicomp/aperitiiif-cli', tag: 'v0.1.2'
+# gem 'aperitiiif', github: 'middlicomp/aperitiiif-cli', tag: 'v0.1.2'
 # gem 'aperitiiif', path: 'aperitiiif-cli'
-# gem 'aperitiiif', github: 'nyu-dss/aperitiiif-cli'
+gem 'aperitiiif', github: 'nyu-dss/aperitiiif-cli'
 
 gem 'rake', '~> 13.0'
 
