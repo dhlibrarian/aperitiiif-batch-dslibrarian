@@ -1,6 +1,7 @@
 GIT
-  remote: https://github.com/nyu-dss/aperitiiif-cli.git
-  revision: 5e1e06d6ec353886a593fc99fad6b553f203f55d
+  remote: https://github.com/middlicomp/aperitiiif-cli.git
+  revision: a91d2e30228ef223348713a021adef9422d98eee
+  tag: v0.1.2
   specs:
     aperitiiif (0.1.2)
       colorize
@@ -16,22 +17,22 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.4.2)
+    activesupport (7.0.6)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
     ast (2.4.2)
-    colorize (0.8.1)
-    concurrent-ruby (1.2.0)
+    colorize (1.1.0)
+    concurrent-ruby (1.2.2)
     diff-lcs (1.5.0)
     docile (1.4.0)
-    faraday (2.7.4)
+    faraday (2.7.10)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
     ffi (1.15.5)
-    i18n (1.12.0)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     iiif-presentation (1.1.0)
       activesupport (>= 3.2.18)
@@ -44,12 +45,12 @@ GEM
     mimemagic (0.4.3)
       nokogiri (~> 1)
       rake
-    minitest (5.17.0)
-    nokogiri (1.14.0-arm64-darwin)
+    minitest (5.18.1)
+    nokogiri (1.15.3-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.14.0-x86_64-darwin)
+    nokogiri (1.15.3-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.14.0-x86_64-linux)
+    nokogiri (1.15.3-x86_64-linux)
       racc (~> 1.4)
     parallel (1.22.1)
     parser (3.2.2.3)
@@ -101,8 +102,8 @@ GEM
       simplecov_json_formatter (~> 0.1)
     simplecov-html (0.12.3)
     simplecov_json_formatter (0.1.4)
-    thor (1.2.1)
-    tzinfo (2.0.5)
+    thor (1.2.2)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.4.2)
 
